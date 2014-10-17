@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmo:home|Door43 (pmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmo|d43-pmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmo/archive/master.zip|d43-pmo.zip]]
+
+**Recent Changes**
+{{changes>ns = pmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmo|Ethnologue data]]
+
